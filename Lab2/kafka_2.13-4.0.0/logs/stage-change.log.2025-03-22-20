@@ -1,0 +1,3 @@
+[2025-03-22 20:24:00,785] INFO [Broker id=1] Transitioning 1 partition(s) to local leaders. (state.change.logger)
+[2025-03-22 20:24:00,786] INFO [Broker id=1] Creating new partition aggregate_date-0 with topic id KAm7t0-NTAexn3ZtdUBnCg. (state.change.logger)
+[2025-03-22 20:24:00,800] INFO [Broker id=1] Leader aggregate_date-0 with topic id Some(KAm7t0-NTAexn3ZtdUBnCg) starts at leader epoch 0 from offset 0 with partition epoch 0, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader None and previous leader epoch was -1. (state.change.logger)
