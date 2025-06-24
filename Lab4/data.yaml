@@ -1,0 +1,9 @@
+path: data
+train: images/train
+val: images/val
+nc: 4
+names:
+  0: dark_broken
+  1: dark_entire
+  2: red_broken
+  3: red_entire
